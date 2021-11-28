@@ -27,7 +27,7 @@ public:
 
 
     // 전체 에지 리스트 반환
-    auto& edges() const{return edge_list;환
+    auto& edges() const{return edge_list;
 
     // 정점 v에서 나가는 모든 에지 반환
     auto edges(unsigned v) const{
